@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 185,
+    "left": 0,
+    "width": 874,
+    "height": 1165,
+    "isRotated": false,
+    "originalWidth": 874,
+    "originalHeight": 1536
+  },
+  "imagePath": "image-targets/Ahora si efemero_luminance.png",
+  "metadata": null,
+  "name": "Ahora si efemero",
+  "resources": {
+    "originalImage": "Ahora si efemero_original.png",
+    "croppedImage": "Ahora si efemero_cropped.png",
+    "thumbnailImage": "Ahora si efemero_thumbnail.png",
+    "luminanceImage": "Ahora si efemero_luminance.png"
+  },
+  "created": 1788908748623,
+  "updated": 1788908748623
+}
